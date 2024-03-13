@@ -13,7 +13,10 @@ Hi there 👋
 ### Some of my reads
 🔍 If you like to read text instead of code, you can check my article with comparison of 2 cloud certifications preparation and examination experiences:  [AWS Solution Architect vs Microsoft Azure Developer](https://github.com/kravchenya/AWS_SAA-C01_vs_Azure_AZ-204/)  or about me being a (little) entrepreneur, srartuper and investor all together [Hard life of developing a pet project: from 0 to 100](https://github.com/kravchenya/AWS_SAA-C01_vs_Azure_AZ-204/) 
 
-## Contact me
+### What can I do for you
+💬 I have been in IT consultancy in different roles for many years. If you need either a carrier development advise or advise about architecture of your IT solution, simple get in touch
+ 
+### Contact me
 - you can either find more information about me on [LinkedIn](https://www.linkedin.com/in/dkravchenko/)
 - or drop me a direct message via [dkravchenko@outlook.com](dkravchenko@outlook.com)
 
