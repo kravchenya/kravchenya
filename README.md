@@ -3,7 +3,7 @@
 Hi there 👋
 
 ## About me
-😉 My name is Dmitry and welcome to my Github page.
+😉 My name is Dmitry and welcome to my GitHub page.
 
 ### Some of my works
 🔭 I’m currently working on [cashbackfuchs.de](http://535651949.swh.strato-hosting.eu)  and  [realestatereturn.de](https://github.com/kravchenya/de_real_estate_return) * 
