@@ -6,7 +6,7 @@ Hi there 👋
 😉 My name is Dmitry and welcome to my GitHub page.
 
 ### Some of my works
-🔭 I’m currently working on [cashbackfuchs.de](https://cashbackfuchs.de)  and  [kaufenmietenvergleich.de](http://kaufenmietenvergleich.de/) * 
+🔭 I’m currently working on [cashbackfuchs.de](https://cashbackfuchs.de)  and  [kaufenmietenvergleich.de](http://kaufenmietenvergleich.de/)
 
 👯 I am curious about technologies and how they can improve out lives. Therefore I’m looking to collaborate on project which can unity both of them. 
 
@@ -20,7 +20,6 @@ Hi there 👋
 - you can either find more information about me on [LinkedIn](https://www.linkedin.com/in/dkravchenko/)
 - or drop me a direct message via [dkravchenko@outlook.com](dkravchenko@outlook.com)
 
-\* working name, currently under construction
 
 <!--
 **kravchenya/kravchenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
