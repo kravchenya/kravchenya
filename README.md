@@ -8,7 +8,7 @@ Hi there 👋
 ### Some of my works
 🔭 I’m currently working on [cashbackfuchs.de](https://cashbackfuchs.de)  and  [kaufenmietenvergleich.de](http://kaufenmietenvergleich.de/)
 
-👯 I am curious about technologies and how they can improve out lives. Therefore I’m curious about projects which can unity both of them. 
+👯 I am curious about technologies and how they can improve out lives. Therefore I’m interested in projects which can bring together both of them. 
 
 ### Some of my reads
 🔍 If you like to read text instead of code, you can check my article with comparison of 2 cloud certifications preparation and examination experiences:  [AWS Solution Architect vs Microsoft Azure Developer](https://github.com/kravchenya/AWS_SAA-C01_vs_Azure_AZ-204/)  or about me being a (little) entrepreneur, srartuper and investor all together [Hard life of developing a pet project: from 0 to 100](https://github.com/kravchenya/AWS_SAA-C01_vs_Azure_AZ-204/) 
