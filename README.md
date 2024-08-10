@@ -18,7 +18,7 @@ Hi there 👋
  
 ### Contact me
 - you can either find more information about me on [LinkedIn](https://www.linkedin.com/in/dkravchenko/)
-- or drop me a direct message via [dkravchenko@outlook.com](dkravchenko@outlook.com)
+- or drop me a direct message via [info@digitalservicesconsulting.io](info@digitalservicesconsulting.io)
 
 
 <!--
