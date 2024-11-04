@@ -6,19 +6,17 @@ Hi there 👋
 😉 My name is Dmitry and welcome to my GitHub page.
 
 ### Some of my works
-🔭 I’m currently working on [cashbackfuchs.de](https://cashbackfuchs.de)  and  [kaufenmietenvergleich.de](http://kaufenmietenvergleich.de/)
 
 👯 I am curious about technologies and how they can improve our lives. Therefore I’m interested in projects which can bring together both of them. 
 
 ### Some of my reads
-🔍 If you like to read text instead of code, you can check article where I compare preparation for 2 cloud certifications and examination experience:  [AWS Solution Architect vs Microsoft Azure Developer](https://github.com/kravchenya/AWS_SAA-C01_vs_Azure_AZ-204/)  or about me being a (little) entrepreneur, startuper and investor all together [Hard life of developing a pet project: from 0 to 100](https://github.com/kravchenya/AWS_SAA-C01_vs_Azure_AZ-204/) 
+🔍 If you like to read text instead of code, you can check article where I compare preparation for 2 cloud certifications and examination experience:  [AWS Solution Architect vs Microsoft Azure Developer](https://github.com/kravchenya/AWS_SAA-C01_vs_Azure_AZ-204/) 
 
 ### What can I do for you
 💬 If you need either carrier advice or advice about architecture of your IT solution, simply get in touch
  
 ### Contact me
-- you can either find more information about me on [LinkedIn](https://www.linkedin.com/in/dkravchenko/)
-- or drop me a direct message via [info@digitalservicesconsulting.io](info@digitalservicesconsulting.io)
+- you can find more information about me on [LinkedIn](https://www.linkedin.com/in/dkravchenko/)
 
 
 <!--
